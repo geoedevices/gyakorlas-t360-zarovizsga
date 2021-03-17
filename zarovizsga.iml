@@ -4,10 +4,14 @@
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/test/java/hu/nive/ujratervezes/zarovizsga/dogtypes" />
+      <excludeFolder url="file://$MODULE_DIR$/src/test/java/hu/nive/ujratervezes/zarovizsga/kennel" />
+      <excludeFolder url="file://$MODULE_DIR$/src/test/java/hu/nive/ujratervezes/zarovizsga/workhours" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
