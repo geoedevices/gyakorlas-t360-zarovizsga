@@ -8,14 +8,14 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/src/test/java/hu/nive/ujratervezes/zarovizsga/workhours" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/src/test/java/hu/nive/ujratervezes/zarovizsga/dogtypes" />
-      <excludeFolder url="file://$MODULE_DIR$/src/test/java/hu/nive/ujratervezes/zarovizsga/kennel" />
-      <excludeFolder url="file://$MODULE_DIR$/src/test/java/hu/nive/ujratervezes/zarovizsga/workhours" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: org.postgresql:postgresql:42.2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.mariadb.jdbc:mariadb-java-client:2.7.2" level="project" />
     <orderEntry type="library" name="Maven: org.flywaydb:flyway-core:7.5.3" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.3" level="project" />
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.3" level="project" />
